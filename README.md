@@ -6,3 +6,4 @@
 - #9184  [신나는 함수 실행](https://www.acmicpc.net/problem/9184) 🔓 [code](baekjoon/9184_신나는_함수_실행.py)
 - #1152  [단어의 개수](https://www.acmicpc.net/problem/1152) 🔓 [code](baekjoon/1152_단어의_개수.py)
 - #2941  [크로아티아 알파벳](https://www.acmicpc.net/problem/2941) 🔓 [code](baekjoon/2941_크로아티아_알파벳.py)
+- #10991 [별 찍기 - 16](https://www.acmicpc.net/problem/10991) 🔓 [code](baekjoon/10991_별_찍기_16.py)
