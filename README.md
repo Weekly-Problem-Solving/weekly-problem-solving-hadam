@@ -8,3 +8,5 @@
 - #2941  [크로아티아 알파벳](https://www.acmicpc.net/problem/2941) 🔓 [code](baekjoon/2941_크로아티아_알파벳.py)
 - #10991 [별 찍기 - 16](https://www.acmicpc.net/problem/10991) 🔓 [code](baekjoon/10991_별_찍기_16.py)
 - #10992 [별 찍기 - 17](https://www.acmicpc.net/problem/10992) 🔓 [code](baekjoon/10992_별_찍기_17.py)
+- #10844 [쉬운 계단 수](https://www.acmicpc.net/problem/10844)
+- #11047 [동전 0](https://www.acmicpc.net/problem/11047)
